@@ -1,6 +1,12 @@
-footer{
+/* footer{
     padding: 10px 0px;
-}
+} */
 .table{
     margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+.footer_height{
+    height: 51px;
 }
