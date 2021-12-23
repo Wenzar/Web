@@ -1,0 +1,76 @@
+body {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.capslock {
+    text-transform: uppercase;
+    margin: 1.25%;
+}
+
+.line {
+    border-bottom: 3px solid rgb(153, 124, 235);
+    margin: 1.25%;
+}
+
+p,
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    margin: 1.25%;
+}
+
+.image {
+    float: left;
+    width: 22.5%;
+    height: 300px;
+    margin: 1.25%;
+    background-size: cover;
+    background-position: center;
+}
+
+.image1 {
+    background-image: url(image-gallery/ball-63527_640.jpg);
+}
+
+.image2 {
+    background-image: url(image-gallery/icons-2188729_640.png);
+}
+
+.image3 {
+    background-image: url(image-gallery/mobile-devices-2017980_640.png);
+}
+
+.image4 {
+    background-image: url(image-gallery/depositphotos_71506547-stock-photo-beautiful-ocean-surfing-wave.jpg);
+}
+
+.image5 {
+    background-image: url(image-gallery/network-3866139_640.jpg);
+}
+
+.image6 {
+    background-image: url(image-gallery/student-849825_640.jpg);
+}
+
+.image7 {
+    background-image: url(image-gallery/web-1935737_1920.png);
+}
+
+.image8 {
+    background-image: url(image-gallery/webdesign-3411373_640.jpg);
+}
+
+.date {
+    color: rgb(66, 135, 226);
+    letter-spacing: 0.2rem;
+}
+
+.left_line {
+    border-left: 5px solid rgb(72, 102, 236);
+    padding-left: 7px;
+}
+
+.bottom_line {
+    border-bottom: 1px solid rgb(116, 139, 139);
+    margin: 1.25%;
+}
